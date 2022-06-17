@@ -5,3 +5,5 @@ Es una aplicación de lista de tareas pendientes la cual usa un detector de even
 Tecnologías:
 
 HTML-CSS-JavaScript
+
+https://misaelvc.github.io/cosas-por-hacer/index.html
